@@ -1,1 +1,2 @@
-puts "Hello World"
+10.times {puts "Hello World"}
+
